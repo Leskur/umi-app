@@ -1,5 +1,5 @@
 import styles from './index.less';
-
+import { useIntl } from 'umi';
 export default function IndexPage() {
   return (
     <div>
